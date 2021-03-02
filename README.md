@@ -21,4 +21,3 @@
 ## Sobre
 
  - Conheça mais sobre a [Nuvende](https://www.nuvende.com.br/).
- - Conheça mais sobre a [Doutbox](https://doutbox.com.br/).
