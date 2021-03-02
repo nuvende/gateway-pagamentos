@@ -8,6 +8,14 @@
 
  - Possuímos uma documentação completa, explicando sobre como utilizar a nossa API, você pode acessar clicando [aqui](https://app.swaggerhub.com/apis-docs/Nuvende9/NuvendeGatewayPagamentos/1.0.2).
 
+### Documentação
+
+ - [Como utilizar o gateway](https://app.swaggerhub.com/apis-docs/Nuvende9/NuvendeGatewayPagamentos/1.0.2).
+
+ - Tabela de retorno do [status das transações](https://github.com/nuvende/gateway-pagamentos/blob/master/docs/return-types/transactions/transactions-status.md)
+
+ - Tabela de retorno de [erros nas transações](https://github.com/nuvende/gateway-pagamentos/blob/master/docs/return-types/transactions/transactions-errors.md)
+
 -----
 
 ## Sobre
