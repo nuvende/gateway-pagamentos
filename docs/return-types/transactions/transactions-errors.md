@@ -1,6 +1,6 @@
 # Nuvende - API de Pagamentos
 
-## Tabela de Status de Transação
+## Tabela de Erros de Transação
 
 | STATUS | DESCRIÇÃO |
 | ----- | -------- |
