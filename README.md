@@ -12,6 +12,8 @@
 
  - [Como utilizar o gateway](https://app.swaggerhub.com/apis-docs/Nuvende9/NuvendeGatewayPagamentos/1.0.2).
 
+ - [Arquivo Json](https://github.com/nuvende/gateway-pagamentos/blob/master/gateway-de-pagamentos.json)  de exemplo.
+
  - Tabela de retorno do [status das transações](https://github.com/nuvende/gateway-pagamentos/blob/master/docs/return-types/transactions/transactions-status.md)
 
  - Tabela de retorno de [erros nas transações](https://github.com/nuvende/gateway-pagamentos/blob/master/docs/return-types/transactions/transactions-errors.md)
