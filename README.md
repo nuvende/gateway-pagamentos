@@ -10,7 +10,7 @@
 
 ### Documentação
 
- - [Como utilizar o gateway](https://app.swaggerhub.com/apis-docs/Nuvende9/NuvendeGatewayPagamentos/1.0.2).
+ - [Como utilizar o gateway](https://app.swaggerhub.com/apis-docs/Nuvende9/NuvendeGatewayPagamentos/).
 
  - [Arquivo Json](https://github.com/nuvende/gateway-pagamentos/blob/master/example-gateway-de-pagamentos.json)  de exemplo.
 
